@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oi%2C%20eu%20sou%20o%20Matheus%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Desenvolvedor%20Criativo%20%7C%20Entusiasta%20Open%20Source%20%7C%20He%2FHim&descAlignY=55&descSize=16" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Construindo+coisas+que+fazem+diferenca+%F0%9F%94%A5;Contribuidor+Open+Source+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+construindo+%E2%9C%A8" alt="Typing SVG" />
-
-</div>
-
----
-
 ## 🧑‍💻 Sobre mim
 
 Sou um desenvolvedor apaixonado por construir aplicações que realmente importam. Tecnologia sempre me fascinou — mergulhei no mundo do desenvolvimento web com um objetivo: **fazer uma diferença real na vida das pessoas**.
@@ -108,13 +92,3 @@ Acordo. Abro o VSCode. Fecho o VSCode. Abro o Twitter. Fico 40 minutos no Twitte
 ![Contador de visitas](https://komarev.com/ghpvc/?username=MatheusVsc&label=Visitantes&color=F0A500&style=flat)
 
 *obrigado por ter chegado até aqui, você claramente também não tem nada melhor pra fazer*
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/gato.jpeg" width="400"/>
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
