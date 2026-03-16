@@ -26,7 +26,7 @@ Sou apaixonado por:
 - 🔬 Ciência & Matemática e muito mais...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/HABZ1ekW0AABIG_.jfif" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/HABZ1ekW0AABIG_.jfif" width="400"/>
 </div>
 
 ---
@@ -39,7 +39,7 @@ Sou apaixonado por:
 - 👉 Construindo & contribuindo com projetos Open Source
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/607903276_18011193332814287_5478410864672652634_n.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/607903276_18011193332814287_5478410864672652634_n.jpg" width="400"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/609865524_17934750306138380_2876586521270800001_n.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/609865524_17934750306138380_2876586521270800001_n.jpg" width="400"/>
 </div>
 
 ---
@@ -66,34 +66,19 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/627212186_18450687988110153_3195724750845700287_n.webp" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/627212186_18450687988110153_3195724750845700287_n.webp" width="400"/>
 </div>
 
 ---
 
-## 🏆 Conquistas & Comunidade
-
-- 🌱 **Membro do Programa de Desenvolvedores** @ GitHub
-- 💼 Contribuidor Open Source
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G_Xed_NWwAAlSWv.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G_Xed_NWwAAlSWv.png" width="400"/>
 </div>
 
 ---
 
-## 🌐 Me encontre por aí
-
 <div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/SEU_TWITTER)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Site](https://img.shields.io/badge/Site-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://SEU_SITE)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G8z3pmGWsAA6Jhy.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G8z3pmGWsAA6Jhy.jpeg" width="400"/>
 </div>
 
 ---
@@ -105,7 +90,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/gato.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/gato.jpeg" width="400"/>
 </div>
 
 <div align="center">
