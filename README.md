@@ -26,7 +26,7 @@ Sou apaixonado por:
 - 🔬 Ciência & Matemática e muito mais...
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat1.jfif" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/HABZ1ekW0AABIG_.jfif" width="200"/>
 </div>
 
 ---
@@ -39,7 +39,7 @@ Sou apaixonado por:
 - 👉 Construindo & contribuindo com projetos Open Source
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat2.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/607903276_18011193332814287_5478410864672652634_n.jpg" width="200"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat3.jpg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/609865524_17934750306138380_2876586521270800001_n.jpg" width="200"/>
 </div>
 
 ---
@@ -66,7 +66,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat4.webp" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/627212186_18450687988110153_3195724750845700287_n.webp" width="200"/>
 </div>
 
 ---
@@ -77,7 +77,7 @@ Sou apaixonado por:
 - 💼 Contribuidor Open Source
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat5.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G_Xed_NWwAAlSWv.png" width="200"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat6.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G8z3pmGWsAA6Jhy.jpeg" width="200"/>
 </div>
 
 ---
@@ -105,7 +105,7 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/cat7.jpeg" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/gato.jpeg" width="200"/>
 </div>
 
 <div align="center">
