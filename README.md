@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Construindo+coisas+que+fazem+diferença+🔥;Contribuidor+Open+Source+💻;Sempre+aprendendo%2C+sempre+construindo+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F0A500&center=true&vCenter=true&width=600&lines=Construindo+coisas+que+fazem+diferenca+%F0%9F%94%A5;Contribuidor+Open+Source+%F0%9F%92%BB;Sempre+aprendendo%2C+sempre+construindo+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@ Adoro trabalhar com **Open Source** ❤️ e sou uma pessoa muito curiosa, com e
 
 Sou apaixonado por:
 - 🌐 Desenvolvimento Web & Programação
-- 🤖 Robótica & IoT
+- 🤖 Jogos & IoT
 - 🔬 Ciência & Matemática e muito mais...
 
 <div align="center">
@@ -44,11 +44,11 @@ Sou apaixonado por:
 
 ---
 
-## 🛠️ Tecnologias
+## 🌙 Minha Rotina
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,linux,vscode&perline=5" />
-</div>
+Acordo. Abro o VSCode. Fecho o VSCode. Abro o Twitter. Fico 40 minutos no Twitter. Volto pro VSCode. Fecho de novo. Abro o YouTube. Assisto um vídeo de 3 horas sobre uma tecnologia que nunca vou usar. Volto pro VSCode. Commit. Push. Dormir às 4 da manhã. Repetir.
+
+É um lifestyle, não um vício.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/609865524_17934750306138380_2876586521270800001_n.jpg" width="400"/>
@@ -56,7 +56,23 @@ Sou apaixonado por:
 
 ---
 
+## 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,linux,vscode&perline=5" />
+</div>
+
+> Sim, eu coloco TypeScript no currículo mesmo errando o tipo de `undefined` todo dia.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/627212186_18450687988110153_3195724750845700287_n.webp" width="400"/>
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
+
+> A maioria dos commits foi feita depois da meia noite. Não estou orgulhoso. Estou mentindo, estou muito orgulhoso.
 
 <div align="center">
 
@@ -66,16 +82,20 @@ Sou apaixonado por:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/627212186_18450687988110153_3195724750845700287_n.webp" width="400"/>
-</div>
-
----
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G_Xed_NWwAAlSWv.png" width="400"/>
 </div>
 
 ---
+
+## 💭 Pensamentos Aleatórios às 3am
+
+- Será que eu deveria reescrever esse projeto do zero em Rust?
+- Vou só dar uma olhada no Twitter, 5 minutinhos
+- Essa issue aberta há 2 anos provavelmente não é tão importante
+- Vou só refatorar uma coisinha antes de dormir
+- Por que meu CSS funciona no Chrome mas não no Firefox???
+- Talvez eu devesse aprender Vim
+- Não vou aprender Vim
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MatheusVsc/MatheusVsc/main/assets/G8z3pmGWsAA6Jhy.jpeg" width="400"/>
@@ -85,7 +105,9 @@ Sou apaixonado por:
 
 <div align="center">
 
-![Contador de visitas](https://profile-counter.glitch.me/MatheusVsc/count.svg)
+![Contador de visitas](https://komarev.com/ghpvc/?username=MatheusVsc&label=Visitantes&color=F0A500&style=flat)
+
+*obrigado por ter chegado até aqui, você claramente também não tem nada melhor pra fazer*
 
 </div>
 
